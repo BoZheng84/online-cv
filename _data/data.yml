@@ -27,19 +27,19 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Perfessional
+
+      - idiom: Chinese (Mandarin)
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
       - item: Climbing
         link:
 
-      - item: Snowboarding
+      - item: Video Games
         link:
 
       - item: Cooking
