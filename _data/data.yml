@@ -7,22 +7,22 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Bo Zheng
+    tagline: Self-learning Programmer
+    avatar: bo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: bofindjob@gmail.com
+    phone: 256 665 1991
+    website: bozheng84.github.io/cv/ #do not add http://
+    linkedin: linkedin.com/in/bo-zheng-msee-bsme-06840bb0/
+    github: BoZheng84
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
+    codewars: codewars.com/users/bo_zheng
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
